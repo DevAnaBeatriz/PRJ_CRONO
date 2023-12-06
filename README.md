@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img  src="https://github.com/DevAnaBeatriz/PRJ_JetpackComposeState/blob/main/app_jetpackcompose.gif"  />
+  <img  src="https://github.com/DevAnaBeatriz/PRJ_CRONO/blob/main/AppCrono.gif"  />
 </div>
 
 
