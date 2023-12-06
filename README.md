@@ -22,13 +22,13 @@
 <h2 align="left">Functionalities</h2>
 
 <p align="left">
-Create a time record;
+▸Create a time record;
 
-View a time log;
+▸View a time log;
 
-Change a time record; and
+▸Change a time record; and
 
-Delete a time record.
+▸Delete a time record.
 </p>
 
 ###
