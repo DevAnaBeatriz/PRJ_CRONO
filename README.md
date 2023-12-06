@@ -1,4 +1,3 @@
-# PRJ_CRONO
 <h1 align="center">Project Jetpack Compose Crono</h1>
 
 ###
