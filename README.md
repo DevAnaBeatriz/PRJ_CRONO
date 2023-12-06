@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">To clone this repository and get a local copy of the source code, follow the steps below:<br><br>▸ Open the terminal or command line;<br>▸ Navigate to the directory where you want to clone the repository;<br>▸ Run the following command: "git clone https://github.com/DevAnaBeatriz/PRJ_JetpackComposeState.git";<br>▸ Wait until the cloning process is complete; and<br>▸ After completing these steps, you will have a local copy of the repository in your development environment.</p>
+<p align="left">To clone this repository and get a local copy of the source code, follow the steps below:<br><br>▸ Open the terminal or command line;<br>▸ Navigate to the directory where you want to clone the repository;<br>▸ Run the following command: "https://github.com/DevAnaBeatriz/PRJ_CRONO.git";<br>▸ Wait until the cloning process is complete; and<br>▸ After completing these steps, you will have a local copy of the repository in your development environment.</p>
 
 ###
 
